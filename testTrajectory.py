@@ -3,7 +3,8 @@
 """
 tests trajectory from tanks.py
 
-@author: gershow
+@author: Kellan Cupid
+TA: Argha Mondal
 """
 
 from tanks import trajectory
