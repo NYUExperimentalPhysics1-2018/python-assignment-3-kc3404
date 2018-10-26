@@ -4,7 +4,8 @@
 test tankshot and drawboard from tanks.py
 requires completion of both of these items
 
-@author: gershow
+@author: Kellan Cupid
+TA: Argha Mondal
 
 """
 
